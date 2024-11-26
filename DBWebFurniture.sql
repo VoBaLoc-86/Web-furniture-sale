@@ -79,7 +79,7 @@ CREATE TABLE Reviews (
 );
 
 
-CREATE TABLE Cart (
+CREATE TABLE Carts (
     Id INT IDENTITY(1,1) PRIMARY KEY, 
     User_id INT NOT NULL,
     Product_id INT NOT NULL,
