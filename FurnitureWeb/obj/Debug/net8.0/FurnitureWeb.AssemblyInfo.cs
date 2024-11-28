@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FurnitureWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c407ffe58ec31227e1e6110e55eea60885729c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d281b41c63e725029a32082d6963147210f2b71d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FurnitureWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FurnitureWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
